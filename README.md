@@ -1,16 +1,20 @@
-### Hi there 👋
+<samp> 👋 Heyo! I'm Rickson </samp>
+<br></br>
+<samp>
+  working on infrastructure @ [bitgo](https://www.bitgo.com/)
+  <br>
+  software engineering student @ [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
+  <br>
+  project lead @ [uw blueprint](https://uwblueprint.org/)
+</samp>
 
-<!--
-**MatoPlus/MatoPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MatoPlus&count_private=true&include_all_commits=true&theme=onedark" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatoPlus&layout=compact&theme=onedark&langs_count=15" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://rixinyang.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/aboutdotme.svg" alt="personal-site" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rixinyang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40"/></a>
+</p>
