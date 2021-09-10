@@ -1,7 +1,7 @@
 <samp> 👋 Heyo! I'm Rickson </samp>
 <br></br>
 <samp>
-  working on infrastructure @ [bitgo](https://www.bitgo.com/)
+  working on infrastructure & security @ [bitgo](https://www.bitgo.com/)
   <br>
   software engineering student @ [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
