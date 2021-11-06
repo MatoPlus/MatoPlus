@@ -5,7 +5,9 @@
   <br>
   software engineering student @ [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  project lead @ [uw blueprint](https://uwblueprint.org/)
+  technical lead @ [uw blueprint](https://uwblueprint.org/)
+  <br>
+  previously at [axonify](https://axonify.com/), [digitaled (möbius)](https://www.digitaled.com/)
 </samp>
 
 <div>
