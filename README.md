@@ -1,13 +1,11 @@
 <samp> 👋 Heyo! I'm Rickson </samp>
 <br></br>
 <samp>
-  working on infrastructure & security @ [bitgo](https://www.bitgo.com/)
-  <br>
   software engineering student @ [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  technical lead @ [uw blueprint](https://uwblueprint.org/)
+  ex-technical lead @ [uw blueprint](https://uwblueprint.org/)
   <br>
-  previously at [axonify](https://axonify.com/), [digitaled (möbius)](https://www.digitaled.com/)
+  previously at [bitgo](https://www.bitgo.com/), [axonify](https://axonify.com/), [digitaled (möbius)](https://www.digitaled.com/)
 </samp>
 
 <div>
