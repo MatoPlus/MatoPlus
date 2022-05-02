@@ -1,9 +1,11 @@
 <samp> 👋 Heyo! I'm Rickson </samp>
 <br></br>
 <samp>
+  working on backend @ [faire](https://www.faire.com/)
+  <br>
   software engineering student @ [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  ex-technical lead @ [uw blueprint](https://uwblueprint.org/)
+  technical lead @ [uw blueprint](https://uwblueprint.org/)
   <br>
   previously at [bitgo](https://www.bitgo.com/), [axonify](https://axonify.com/), [digitaled (möbius)](https://www.digitaled.com/)
 </samp>
