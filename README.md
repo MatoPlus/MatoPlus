@@ -11,8 +11,7 @@
 </samp>
 
 <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MatoPlus&count_private=true&include_all_commits=true&theme=onedark" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatoPlus&layout=compact&theme=onedark&langs_count=15" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatoPlus&count_private=true&include_all_commits=true&theme=onedark" alt="stats" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
