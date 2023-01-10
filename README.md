@@ -3,11 +3,11 @@
 <samp>
   software engineering student @ [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
+  2x infra at [bitgo](https://www.bitgo.com/)
   ex-technical lead @ [uw blueprint](https://uwblueprint.org/)
   <br>
   ex-dev at [faire](https://www.faire.com/), [axonify](https://axonify.com/), [digitaled (möbius)](https://www.digitaled.com/)
   <br>
-  ex-infra at [bitgo](https://www.bitgo.com/)
 </samp>
 
 <div>
