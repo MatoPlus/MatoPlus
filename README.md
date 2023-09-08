@@ -1,6 +1,8 @@
 <samp> 👋 Heyo! I'm Rickson </samp>
 <br></br>
 <samp>
+  fullstack dev @ [autodesk](https://www.autodesk.com/company)
+  <br>
   software engineering student @ [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
   2x infra at [bitgo](https://www.bitgo.com/)
