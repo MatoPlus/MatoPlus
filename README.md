@@ -12,10 +12,6 @@
   ex-dev at [faire](https://www.faire.com/), [axonify](https://axonify.com/), [digitaled (möbius)](https://www.digitaled.com/)
 </samp>
 
-<div>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatoPlus&count_private=true&include_all_commits=true&theme=onedark" alt="stats" />
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://rixinyang.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/aboutdotme.svg" alt="personal-site" height="30" width="40" /></a>
