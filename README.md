@@ -1,15 +1,13 @@
 <samp> 👋 Heyo! I'm Rickson </samp>
 <br></br>
 <samp>
-  fullstack dev @ [autodesk](https://www.autodesk.com/company)
-  <br>
   software engineering student @ [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
-  <br>
-  2x infra at [bitgo](https://www.bitgo.com/)
   <br>
   ex-technical lead @ [uw blueprint](https://uwblueprint.org/)
   <br>
-  ex-dev at [faire](https://www.faire.com/), [axonify](https://axonify.com/), [digitaled (möbius)](https://www.digitaled.com/)
+  ex-dev  @ [autodesk](https://www.autodesk.com/company), [faire](https://www.faire.com/), [axonify](https://axonify.com/), [digitaled (möbius)](https://www.digitaled.com/)
+  <br>
+  2x infra at [bitgo](https://www.bitgo.com/)
 </samp>
 
 <h3 align="left">Connect with me:</h3>
